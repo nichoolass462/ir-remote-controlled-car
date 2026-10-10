@@ -80,10 +80,10 @@ void loop(){
     Serial.println(IrReceiver.decodedIRData.command);
     cmd = IrReceiver.decodedIRData.command;
 
-    if(cmd == 24) state = 1;
-    else if(cmd == 82) state = 2;
-    else if(cmd == 8) state = 3;
-    else if(cmd == 90) state = 4;
+    if(cmd == 24) state = 1;//number 2
+    else if(cmd == 82) state = 2;//number 8
+    else if(cmd == 8) state = 3;//number 4
+    else if(cmd == 90) state = 4;//number 6
 
     lastSignal = millis();
     IrReceiver.resume();
