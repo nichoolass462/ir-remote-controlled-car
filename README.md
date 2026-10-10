@@ -16,7 +16,7 @@ The demo video can be found on `media`
 | Qty | Component | Datasheet / Product Page |
 |---|---|---|
 | 1 | Arduino Uno R3 | [Datasheet](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf?_gl=1*tkex9c*_up*MQ..*_ga*MTQwNTQ5MTYxOS4xNzkxNjMyNzgw*_ga_NEXN8H46L5*czE3OTE2MzI3NzckbzEkZzAkdDE3OTE2MzI3NzckajYwJGwwJGgzMTQxNzcwMjE.) |
-| 1 | L298N Motor Driver | [Datasheet]([https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8924/ST0050%20%20%20%20IR%20Obstacle%20Avoidance%20Sensor%20Module.pdf#page=3.00](https://components101.com/modules/l293n-motor-driver-module)) |
+| 1 | L298N Motor Driver | [Datasheet](https://components101.com/modules/l293n-motor-driver-module) |
 | 2 | TT DC Gear Motor | [Datasheet](https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/3777_Web.pdf) |
 | 1 | KY-022 IR Receiver Module | [Datasheet](https://intesc.mx/wp-content/uploads/2021/06/KY022.pdf) |
 | 1 | IR Remote Control | N/A |
